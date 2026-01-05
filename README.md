@@ -1,7 +1,7 @@
 # ScanIDCardTencentV3
 **身份证识别实验：腾讯云 OCR + V3（TC3-HMAC-SHA256）签名**
 
-本项目严格按 `ScanIDCard.pptx` 的流程实现：  
+本项目严格按照以下的流程实现：  
 **拍照 → 保存图片 → Base64 → V3(TC3)签名 → POST 请求 → Handler 解析 JSON → 展示结果**
 
 ---

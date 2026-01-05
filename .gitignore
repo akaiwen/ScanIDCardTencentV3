@@ -1,0 +1,28 @@
+# ===== Android / Gradle =====
+.gradle/
+**/build/
+build/
+
+# ===== Local config (DO NOT COMMIT) =====
+local.properties
+gradle.properties
+*.jks
+*.keystore
+key.properties
+
+# ===== Android Studio / IntelliJ =====
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# ===== Logs / Temp =====
+*.log
+captures/
+.externalNativeBuild/
+.cxx/
+
+# ===== OS files =====
+.DS_Store
+Thumbs.db
